@@ -1,0 +1,301 @@
+id,order_id,payment_method,payment_status,payment_date
+1,1,NetBanking,Completed,03-09-2025
+2,2,Credit Card,Cancelled,20-04-2025
+3,3,Debit Card,Failed,10-09-2024
+4,4,NetBanking,Completed,17-03-2025
+5,5,COD,Failed,23-12-2024
+6,6,NetBanking,Failed,10-02-2025
+7,7,PayPal,Completed,20-09-2024
+8,8,UPI,Failed,17-04-2025
+9,9,COD,Completed,13-03-2025
+10,10,UPI,Completed,01-06-2025
+11,11,UPI,Completed,22-02-2025
+12,12,PayPal,Completed,10-01-2025
+13,13,NetBanking,Failed,05-06-2025
+14,14,COD,Completed,02-10-2024
+15,15,PayPal,Completed,10-05-2025
+16,16,Debit Card,Completed,05-06-2025
+17,17,Credit Card,Completed,04-04-2025
+18,18,Credit Card,Failed,25-10-2024
+19,19,PayPal,Completed,07-09-2025
+20,20,PayPal,Pending,11-05-2025
+21,21,UPI,Completed,04-09-2025
+22,22,COD,Completed,07-06-2025
+23,23,UPI,Completed,21-03-2025
+24,24,NetBanking,Completed,13-08-2025
+25,25,PayPal,Completed,04-05-2025
+26,26,UPI,Completed,20-07-2025
+27,27,Credit Card,Cancelled,13-05-2025
+28,28,UPI,Completed,22-01-2025
+29,29,COD,Pending,27-09-2024
+30,30,UPI,Completed,24-10-2024
+31,31,Debit Card,Completed,23-07-2025
+32,32,UPI,Completed,12-10-2024
+33,33,UPI,Completed,06-11-2024
+34,34,Credit Card,Completed,20-10-2024
+35,35,COD,Completed,19-08-2025
+36,36,Credit Card,Failed,19-06-2025
+37,37,Credit Card,Cancelled,13-03-2025
+38,38,PayPal,Refunded,06-09-2025
+39,39,Credit Card,Completed,08-08-2025
+40,40,NetBanking,Failed,07-09-2024
+41,41,UPI,Completed,05-10-2024
+42,42,Debit Card,Completed,06-05-2025
+43,43,NetBanking,Completed,16-06-2025
+44,44,Debit Card,Completed,22-11-2024
+45,45,Credit Card,Completed,24-02-2025
+46,46,NetBanking,Pending,15-11-2024
+47,47,COD,Completed,10-11-2024
+48,48,NetBanking,Completed,28-09-2024
+49,49,Debit Card,Completed,02-09-2025
+50,50,UPI,Completed,07-04-2025
+51,51,Credit Card,Completed,22-12-2024
+52,52,Credit Card,Completed,07-06-2025
+53,53,Debit Card,Cancelled,14-03-2025
+54,54,UPI,Completed,02-07-2025
+55,55,NetBanking,Completed,25-07-2025
+56,56,Debit Card,Completed,09-08-2025
+57,57,UPI,Cancelled,20-12-2024
+58,58,Credit Card,Completed,10-05-2025
+59,59,NetBanking,Completed,09-11-2024
+60,60,NetBanking,Completed,06-07-2025
+61,61,PayPal,Completed,28-06-2025
+62,62,COD,Completed,20-07-2025
+63,63,UPI,Completed,12-10-2024
+64,64,NetBanking,Failed,24-02-2025
+65,65,PayPal,Completed,29-04-2025
+66,66,UPI,Completed,02-09-2025
+67,67,UPI,Completed,19-03-2025
+68,68,NetBanking,Completed,26-05-2025
+69,69,Credit Card,Completed,06-04-2025
+70,70,UPI,Completed,12-12-2024
+71,71,Credit Card,Completed,14-07-2025
+72,72,NetBanking,Completed,23-11-2024
+73,73,Credit Card,Completed,20-05-2025
+74,74,Credit Card,Completed,10-04-2025
+75,75,Credit Card,Completed,12-03-2025
+76,76,UPI,Completed,29-09-2024
+77,77,UPI,Completed,03-01-2025
+78,78,Credit Card,Failed,01-05-2025
+79,79,PayPal,Completed,28-09-2024
+80,80,UPI,Completed,03-12-2024
+81,81,UPI,Cancelled,22-06-2025
+82,82,Debit Card,Completed,02-04-2025
+83,83,Debit Card,Completed,28-12-2024
+84,84,Credit Card,Pending,22-07-2025
+85,85,UPI,Refunded,07-07-2025
+86,86,UPI,Completed,18-09-2024
+87,87,Debit Card,Completed,16-10-2024
+88,88,PayPal,Completed,27-01-2025
+89,89,PayPal,Failed,18-03-2025
+90,90,UPI,Failed,11-08-2025
+91,91,NetBanking,Cancelled,26-10-2024
+92,92,Debit Card,Completed,08-01-2025
+93,93,COD,Failed,19-01-2025
+94,94,Debit Card,Completed,19-05-2025
+95,95,Credit Card,Refunded,14-04-2025
+96,96,PayPal,Completed,17-08-2025
+97,97,PayPal,Completed,01-12-2024
+98,98,NetBanking,Cancelled,02-05-2025
+99,99,Debit Card,Completed,05-01-2025
+100,100,COD,Completed,04-03-2025
+101,101,Credit Card,Completed,04-03-2025
+102,102,PayPal,Completed,21-04-2025
+103,103,Credit Card,Completed,08-10-2024
+104,104,NetBanking,Completed,14-03-2025
+105,105,NetBanking,Completed,09-04-2025
+106,106,NetBanking,Completed,14-01-2025
+107,107,COD,Completed,14-01-2025
+108,108,PayPal,Cancelled,31-12-2024
+109,109,Credit Card,Completed,01-10-2024
+110,110,Credit Card,Completed,19-01-2025
+111,111,NetBanking,Pending,09-07-2025
+112,112,Credit Card,Completed,16-02-2025
+113,113,Debit Card,Completed,31-08-2025
+114,114,PayPal,Cancelled,12-09-2024
+115,115,Debit Card,Completed,12-01-2025
+116,116,PayPal,Completed,27-09-2024
+117,117,COD,Pending,13-12-2024
+118,118,COD,Completed,31-05-2025
+119,119,UPI,Refunded,28-03-2025
+120,120,UPI,Failed,27-10-2024
+121,121,COD,Completed,12-03-2025
+122,122,Credit Card,Completed,04-12-2024
+123,123,PayPal,Completed,25-09-2024
+124,124,Debit Card,Completed,24-07-2025
+125,125,Debit Card,Cancelled,16-02-2025
+126,126,Credit Card,Completed,08-04-2025
+127,127,PayPal,Completed,22-08-2025
+128,128,PayPal,Completed,06-02-2025
+129,129,Credit Card,Completed,26-12-2024
+130,130,Debit Card,Completed,02-08-2025
+131,131,NetBanking,Cancelled,20-10-2024
+132,132,COD,Completed,09-01-2025
+133,133,COD,Completed,01-07-2025
+134,134,NetBanking,Pending,08-12-2024
+135,135,Debit Card,Completed,25-08-2025
+136,136,UPI,Completed,15-01-2025
+137,137,NetBanking,Completed,10-02-2025
+138,138,PayPal,Failed,16-01-2025
+139,139,Debit Card,Failed,23-01-2025
+140,140,COD,Completed,17-01-2025
+141,141,NetBanking,Completed,16-02-2025
+142,142,UPI,Completed,20-11-2024
+143,143,Debit Card,Completed,30-12-2024
+144,144,Debit Card,Failed,26-01-2025
+145,145,COD,Refunded,04-06-2025
+146,146,NetBanking,Completed,07-03-2025
+147,147,Debit Card,Completed,10-03-2025
+148,148,Credit Card,Completed,08-08-2025
+149,149,PayPal,Completed,12-03-2025
+150,150,Credit Card,Completed,25-04-2025
+151,151,UPI,Completed,25-02-2025
+152,152,Credit Card,Completed,10-02-2025
+153,153,NetBanking,Completed,30-03-2025
+154,154,Credit Card,Failed,24-07-2025
+155,155,COD,Refunded,08-09-2024
+156,156,UPI,Cancelled,28-04-2025
+157,157,UPI,Failed,02-02-2025
+158,158,PayPal,Cancelled,08-01-2025
+159,159,COD,Completed,22-04-2025
+160,160,Credit Card,Completed,09-08-2025
+161,161,NetBanking,Refunded,08-08-2025
+162,162,NetBanking,Completed,02-08-2025
+163,163,PayPal,Pending,17-12-2024
+164,164,Debit Card,Completed,22-02-2025
+165,165,PayPal,Completed,13-11-2024
+166,166,Credit Card,Failed,21-07-2025
+167,167,COD,Cancelled,19-05-2025
+168,168,UPI,Completed,28-09-2024
+169,169,Credit Card,Completed,26-12-2024
+170,170,COD,Completed,15-12-2024
+171,171,Credit Card,Completed,12-11-2024
+172,172,PayPal,Completed,23-01-2025
+173,173,NetBanking,Completed,08-05-2025
+174,174,Debit Card,Pending,16-10-2024
+175,175,NetBanking,Completed,09-04-2025
+176,176,Credit Card,Refunded,10-09-2024
+177,177,NetBanking,Completed,25-10-2024
+178,178,Debit Card,Completed,06-10-2024
+179,179,NetBanking,Completed,10-06-2025
+180,180,COD,Completed,17-11-2024
+181,181,PayPal,Completed,03-12-2024
+182,182,Debit Card,Failed,17-03-2025
+183,183,COD,Completed,15-06-2025
+184,184,UPI,Cancelled,12-10-2024
+185,185,COD,Refunded,31-10-2024
+186,186,Credit Card,Completed,29-05-2025
+187,187,COD,Completed,19-10-2024
+188,188,Credit Card,Cancelled,01-12-2024
+189,189,PayPal,Cancelled,28-03-2025
+190,190,NetBanking,Completed,11-10-2024
+191,191,NetBanking,Completed,07-10-2024
+192,192,COD,Completed,14-12-2024
+193,193,UPI,Completed,21-03-2025
+194,194,COD,Cancelled,18-01-2025
+195,195,Debit Card,Pending,28-10-2024
+196,196,Debit Card,Completed,30-07-2025
+197,197,PayPal,Cancelled,09-03-2025
+198,198,UPI,Completed,22-03-2025
+199,199,NetBanking,Completed,19-10-2024
+200,200,Debit Card,Failed,14-10-2024
+201,201,PayPal,Cancelled,30-05-2025
+202,202,PayPal,Completed,27-01-2025
+203,203,Debit Card,Completed,30-12-2024
+204,204,UPI,Failed,21-05-2025
+205,205,NetBanking,Completed,23-10-2024
+206,206,NetBanking,Failed,18-07-2025
+207,207,COD,Failed,12-08-2025
+208,208,PayPal,Completed,26-07-2025
+209,209,NetBanking,Completed,18-04-2025
+210,210,Credit Card,Completed,25-07-2025
+211,211,NetBanking,Completed,17-02-2025
+212,212,PayPal,Completed,14-04-2025
+213,213,NetBanking,Completed,01-10-2024
+214,214,NetBanking,Completed,30-05-2025
+215,215,Credit Card,Completed,04-08-2025
+216,216,PayPal,Completed,09-07-2025
+217,217,NetBanking,Completed,30-03-2025
+218,218,Credit Card,Completed,06-01-2025
+219,219,UPI,Refunded,23-12-2024
+220,220,Credit Card,Refunded,11-02-2025
+221,221,UPI,Completed,24-11-2024
+222,222,COD,Failed,15-05-2025
+223,223,NetBanking,Completed,19-05-2025
+224,224,COD,Completed,11-10-2024
+225,225,Credit Card,Completed,19-04-2025
+226,226,Debit Card,Completed,14-11-2024
+227,227,Debit Card,Completed,19-02-2025
+228,228,Credit Card,Pending,04-06-2025
+229,229,Debit Card,Failed,12-05-2025
+230,230,NetBanking,Completed,12-08-2025
+231,231,PayPal,Completed,11-02-2025
+232,232,UPI,Cancelled,20-03-2025
+233,233,UPI,Completed,02-06-2025
+234,234,PayPal,Completed,03-04-2025
+235,235,UPI,Completed,03-11-2024
+236,236,Credit Card,Failed,06-05-2025
+237,237,UPI,Completed,12-12-2024
+238,238,COD,Failed,26-03-2025
+239,239,UPI,Completed,09-11-2024
+240,240,Credit Card,Completed,26-09-2024
+241,241,Credit Card,Completed,10-01-2025
+242,242,PayPal,Completed,28-09-2024
+243,243,Credit Card,Completed,10-02-2025
+244,244,PayPal,Completed,28-05-2025
+245,245,Debit Card,Pending,20-06-2025
+246,246,COD,Completed,23-07-2025
+247,247,Credit Card,Completed,28-12-2024
+248,248,Debit Card,Completed,16-08-2025
+249,249,Debit Card,Completed,08-09-2024
+250,250,PayPal,Failed,10-11-2024
+251,251,UPI,Pending,05-05-2025
+252,252,Debit Card,Failed,19-01-2025
+253,253,Credit Card,Completed,25-02-2025
+254,254,COD,Completed,14-03-2025
+255,255,Debit Card,Completed,01-12-2024
+256,256,UPI,Completed,11-03-2025
+257,257,UPI,Completed,17-06-2025
+258,258,Debit Card,Completed,04-01-2025
+259,259,NetBanking,Pending,25-11-2024
+260,260,Debit Card,Cancelled,05-11-2024
+261,261,Debit Card,Cancelled,05-10-2024
+262,262,UPI,Cancelled,20-06-2025
+263,263,PayPal,Pending,17-04-2025
+264,264,NetBanking,Completed,08-09-2024
+265,265,PayPal,Completed,06-02-2025
+266,266,Debit Card,Failed,29-05-2025
+267,267,Debit Card,Cancelled,04-01-2025
+268,268,UPI,Completed,03-05-2025
+269,269,UPI,Completed,16-10-2024
+270,270,Debit Card,Completed,07-12-2024
+271,271,COD,Completed,17-10-2024
+272,272,Credit Card,Completed,31-07-2025
+273,273,UPI,Refunded,04-11-2024
+274,274,PayPal,Failed,03-05-2025
+275,275,NetBanking,Completed,12-10-2024
+276,276,PayPal,Pending,06-04-2025
+277,277,NetBanking,Failed,07-01-2025
+278,278,PayPal,Completed,13-08-2025
+279,279,Debit Card,Failed,26-01-2025
+280,280,PayPal,Completed,17-06-2025
+281,281,Debit Card,Completed,25-04-2025
+282,282,COD,Completed,05-07-2025
+283,283,Debit Card,Completed,24-08-2025
+284,284,Credit Card,Completed,17-07-2025
+285,285,COD,Completed,07-05-2025
+286,286,COD,Refunded,24-04-2025
+287,287,PayPal,Completed,16-08-2025
+288,288,NetBanking,Completed,16-07-2025
+289,289,UPI,Pending,24-01-2025
+290,290,Credit Card,Failed,03-06-2025
+291,291,PayPal,Completed,16-02-2025
+292,292,Debit Card,Completed,22-08-2025
+293,293,PayPal,Completed,18-06-2025
+294,294,Credit Card,Completed,25-07-2025
+295,295,COD,Completed,11-11-2024
+296,296,COD,Completed,25-04-2025
+297,297,NetBanking,Completed,14-02-2025
+298,298,Debit Card,Completed,03-03-2025
+299,299,UPI,Completed,09-10-2024
+300,300,UPI,Completed,04-05-2025

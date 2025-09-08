@@ -1,5 +1,3 @@
-# 
-
 
 
 # Anime Analytics Dashboard – Power BI

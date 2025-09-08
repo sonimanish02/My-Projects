@@ -1,0 +1,51 @@
+id,name,category,price
+1,iPhone 14,Electronics,79999
+2,Samsung Galaxy S23,Electronics,74999
+3,OnePlus 11,Electronics,58999
+4,Mi Smart TV 43,Electronics,27999
+5,Sony WH-1000XM4,Electronics,24999
+6,Boat Airdopes 141,Electronics,1499
+7,Noise Smartwatch,Electronics,2999
+8,HP Pavilion Laptop,Electronics,62999
+9,Dell Inspiron 15,Electronics,55999
+10,Canon EOS 1500D Camera,Electronics,34999
+11,Nike Running Shoes,Fashion,5999
+12,Adidas T-Shirt,Fashion,1999
+13,Levi’s Jeans,Fashion,3999
+14,Ray-Ban Sunglasses,Fashion,6499
+15,Titan Watch,Fashion,7999
+16,Puma Hoodie,Fashion,3499
+17,Woodland Shoes,Fashion,4999
+18,Biba Kurti,Fashion,2299
+19,FabIndia Kurta,Fashion,2799
+20,Allen Solly Shirt,Fashion,1999
+21,Fortune Basmati Rice 5kg,Grocery,599
+22,Amul Butter 500g,Grocery,275
+23,Tata Tea 1kg,Grocery,540
+24,Maggi Noodles 12 Pack,Grocery,150
+25,Parle-G Biscuits 1kg,Grocery,120
+26,Aashirvaad Atta 10kg,Grocery,499
+27,Surf Excel 2kg,Grocery,450
+28,Colgate Toothpaste 200g,Grocery,120
+29,Bru Coffee 200g,Grocery,180
+30,Nestle Milkmaid 400g,Grocery,135
+31,Prestige Pressure Cooker,Home & Kitchen,2599
+32,Milton Water Bottle,Home & Kitchen,899
+33,Pigeon Non-Stick Pan,Home & Kitchen,1499
+34,Philips Mixer Grinder,Home & Kitchen,3899
+35,Butterfly Gas Stove,Home & Kitchen,4999
+36,Usha Ceiling Fan,Home & Kitchen,2499
+37,Bajaj OTG Oven,Home & Kitchen,6299
+38,Cello Plastic Container Set,Home & Kitchen,699
+39,Havells LED Bulb Pack,Home & Kitchen,599
+40,Kent Water Purifier,Home & Kitchen,14999
+41,Philips Trimmer,Personal Care,1899
+42,Dove Shampoo 650ml,Personal Care,499
+43,Patanjali Aloe Vera Gel,Personal Care,120
+44,Nivea Men Deodorant,Personal Care,199
+45,Lakme Face Cream,Personal Care,299
+46,L’Oreal Hair Color,Personal Care,699
+47,Pond’s Cold Cream,Personal Care,199
+48,Himalaya Face Wash,Personal Care,149
+49,Cologne Park Avenue,Personal Care,399
+50,Gillette Shaving Kit,Personal Care,799
