@@ -1,10 +1,12 @@
--- DATABASE CREATION
+----------------------------------------- e_commerce_database_sql_project --------------------------------------------
+
+-- DATABASE CREATION --------------------------------------------------------------------------------------------------
 
 CREATE DATABASE IF NOT EXISTS e_commerce;
 USE e_commerce;
 
 
--- TABLES CREATION
+-- TABLES CREATION ----------------------------------------------------------------------------------------------------
 
 -- USERS
 CREATE TABLE users (
@@ -56,3 +58,5 @@ payment_date DATE NOT NULL,
 FOREIGN KEY (order_id) REFERENCES orders(id)
 );
 
+
+ ------------------------------------------------------ END ------------------------------------------------------------               

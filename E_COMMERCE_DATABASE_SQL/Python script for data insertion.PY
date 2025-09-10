@@ -8,7 +8,7 @@ fake = Faker("en_IN")
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Ksql91527",
+    password="password",         # 👈type your password here
     database="e_commerce"
 )
 cursor = conn.cursor()
