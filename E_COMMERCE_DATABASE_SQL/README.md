@@ -22,7 +22,8 @@ This repository operationalizes an end-to-end e-commerce database — from schem
 
 * SCHEMA.sql – Creates the entire database schema (Users, Products, Orders, Order Items, Payments).
 * Python script for data insertion.PY – Populates the database with synthetic but realistic data using Faker.
-* INDEXES\_AND\_VIEWS.sql – Creates indexes and analytical views for performance and insights.
+* INDEXES.sql - Creates indexes for performance.
+* VIEWS.sql – Creates analytical views for insights.
 * ANALYSIS\_USING\_VIEWS.sql – Run-time queries to extract business intelligence from views.
 * VIEW\_ALL\_TABLES\_AT\_ONCE.sql – Utility script to snapshot all tables simultaneously.
 * er\_diagram.jpg – Visual entity-relationship diagram for schema reference.
