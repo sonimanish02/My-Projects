@@ -1,4 +1,4 @@
-# E-Commerce Database SQL Project
+# E-Commerce Database SQL Project (Using MySQL)
 
 
 

@@ -11,6 +11,17 @@ SELECT * FROM users_by_city;
 -- Age of users
 SELECT * FROM age_of_users;
 SELECT * FROM age_of_users WHERE gender = 'Male' AND age BETWEEN 18 AND 30 ;
+SELECT gender, COUNT(*) AS total_users
+FROM age_of_users
+GROUP BY gender;
+SELECT age_group, COUNT(*) AS total_users
+FROM
+(SELECT 
+  age, CASE WHEN age >= 45 THEN '45-60' WHEN age >= 30 THEN '30+' ELSE '18+'
+	   END AS age_group
+FROM age_of_users) AS sub
+GROUP BY age_group;
+
 
 -- Top-selling products (by quantity)
 SELECT * FROM top_selling_product_q;
